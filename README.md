@@ -9,4 +9,4 @@ Then, I've got you covered 😎.<br> This repository will guide you through 15 e
 
 Each project is designed to help you grasp fundamental concepts and improve your coding skills step-by-step. Special thanks to freeCodeCamp and John Smilga for their invaluable guidance and resources that make these projects accessible and easy to follow.
 
-You can follow the video here : ![Watch the tutorial](https://youtu.be/3PHXvlpOkf4?si=HWWLqNQkJJFY6l4n)
+You can follow the video here : [![Watch the tutorial]](https://youtu.be/3PHXvlpOkf4?si=HWWLqNQkJJFY6l4n)
