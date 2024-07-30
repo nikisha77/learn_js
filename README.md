@@ -1,4 +1,4 @@
-# learn_js
+# learn js
 learn javascript by building beginner friendly projects (like literally !!) 
 
 Why ? <br>
